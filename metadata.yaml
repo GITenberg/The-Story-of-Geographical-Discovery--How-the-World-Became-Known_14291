@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2470'
     url: http://www.gutenberg.org/2009/agents/2470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14291#The-Story-of-Geographical-Discovery--How-the-World-Became-Known
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2004-12-07'
 gutenberg_type: Text
